@@ -61,7 +61,7 @@ typings/
 .next
 
 # audios folder
-#audios/
+audios/
 
 # exe files
-#.exe
+.exe
